@@ -4,7 +4,7 @@
 
 * Pending changelog
 
-## 2.2.0-0.1.0-e0664e3 (Built: May 11, 2018 | Pre-release)
+## 2.2.0-0.1.0-5502f58 (Built: May 11, 2018 | Pre-release)
 
 * Dummy change
 
