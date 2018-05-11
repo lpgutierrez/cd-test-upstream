@@ -1,6 +1,6 @@
 # Changelog
 
-## 2.2.0-0.1.1 (upcoming)
+## 2.2.0-0.1.1 (May 11, 2018)
 
 * Hotfix change
 
