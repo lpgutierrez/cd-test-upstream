@@ -1,6 +1,6 @@
 # Changelog
 
-## 2.2.0-0.1.3 (upcoming)
+## 2.2.0-0.1.3 (May 12, 2018)
 
 * Third hotfix change
 
