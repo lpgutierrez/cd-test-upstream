@@ -1,5 +1,9 @@
 # Changelog
 
+## 2.2.0-0.2.0 (upcoming)
+
+* Changes for version 2.2.0-0.2.0
+
 ## 2.2.0-0.1.3-0598eba (Built: May 12, 2018 | Pre-release)
 
 * Third hotfix change
