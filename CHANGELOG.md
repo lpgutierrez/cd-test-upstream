@@ -4,7 +4,7 @@
 
 * Pending changelog
 
-## 2.2.0-0.2.0-b217a48 (Built: May 14, 2018 | Pre-release)
+## 2.2.0-0.2.0-b217a48 (Built: May 14, 2018 | Released: May 14, 2018)
 
 * Changes for version 2.2.0-0.2.0
 
