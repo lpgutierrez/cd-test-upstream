@@ -1,6 +1,6 @@
 # Changelog
 
-## 2.2.0-0.3.1 (upcoming)
+## 2.2.0-0.3.1 (May 24, 2018)
 
 * Changes for version 2.2.0-0.3.1
 
