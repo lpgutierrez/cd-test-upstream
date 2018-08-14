@@ -1,8 +1,12 @@
 # Changelog
 
-## 2.2.0-0.4.0 (upcoming)
+## 2.2.0-0.5.0 (upcoming)
 
 * Pending changelog
+
+## 2.2.0-0.4.0-4ded52e (Built: August 14, 2018 | Pre-release)
+
+* Changes for version 2.2.0-0.4.0
 
 ## 2.2.0-0.3.0-a478db5 (Built: May 24, 2018 | Released: May 24, 2018)
 
