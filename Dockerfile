@@ -1,4 +1,4 @@
-FROM jenkinspre.labs.stratio.com/stratio/ubuntu-base:16.04
+FROM stratio/ubuntu-base:16.04
 MAINTAINER QA "qa@stratio.com"
 
 ARG VERSION
