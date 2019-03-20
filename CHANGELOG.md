@@ -1,6 +1,6 @@
 # Changelog
 
-## 2.2.0-0.4.1 (Upcoming)
+## 2.2.0-0.4.1 (March 20, 2019)
 
 * Added UPSTREAM_VERSION in Jenkins file
 
