@@ -1,6 +1,6 @@
 # Changelog
 
-## 2.2.0-0.4.2 (Upcoming)
+## 2.2.0-0.4.2 (March 21, 2019)
 
 * Other hotfix
 
