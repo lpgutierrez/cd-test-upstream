@@ -7,6 +7,8 @@
 
 #### 2.2.0-0.4.0-4ded52e (Built: August 14, 2018 | Pre-release)
 
+#### 2.2.0-0.3.2-98445cd (Built: April 10, 2019 | Pre-release)
+
 #### 2.2.0-0.3.1-6b30747 (Built: May 24, 2018 | Released: May 24, 2018)
 
 #### 2.2.0-0.3.0-a478db5 (Built: May 24, 2018 | Released: May 24, 2018)
