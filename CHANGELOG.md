@@ -1,6 +1,6 @@
 # Changelog
 
-## 2.2.0-0.3.2 (Upcoming)
+## 2.2.0-0.3.2 (April 10, 2019)
 
 * Changes for version 2.2.0-0.3.2
 
