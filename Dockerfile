@@ -1,5 +1,5 @@
 FROM stratio/ubuntu-base:16.04
-MAINTAINER QA "qa@stratio.com"
+MAINTAINER CD "cd@stratio.com"
 
 ARG VERSION
 
