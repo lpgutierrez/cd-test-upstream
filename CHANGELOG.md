@@ -1,5 +1,9 @@
 # Changelog
 
+## 2.2.0-0.4.3 (upcoming)
+
+* Some weird changes
+
 ## 2.2.0-0.4.2 (March 21, 2019)
 
 * Other hotfix
