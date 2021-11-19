@@ -1,6 +1,6 @@
 # Changelog
 
-## 2.2.0-0.4.3 (upcoming)
+## 2.2.0-0.4.3 (November 19, 2021)
 
 * Some weird changes
 
